@@ -12,6 +12,9 @@ requests = pip install requests
 flask = pip install flask
 
 Also ChromeDriver installed
+You can Install ChromeDriver for your Linux or Windows From -> 
+https://googlechromelabs.github.io/chrome-for-testing/
+according to the device specifications.
 
 To run file -
     In Windows - 
